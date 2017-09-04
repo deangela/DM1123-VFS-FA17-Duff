@@ -169,10 +169,10 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED BOOKS
 
-These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
+These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. This book (#) is available as an online book via [Bobst](http://bobcat.library.nyu.edu).
 
-* Graphic Design: The New Basics by Ellen Lupton*#
-* *
+* Graphic Design: The New Basics (2nd Edition) by Ellen Lupton#
+* Lessons in Typography by Jim Krause
 
 
 ### REQUIRED SOFTWARE
@@ -188,10 +188,9 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. dduff_vfs_fa14_logo1.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa17_assignmentname (i.e. dduff_vfs_fa17_logo1.pdf)
 
 See appendices for all of the following:
-* [IDM Coursework Documentation](dm1123idm_coursework_documentation.md)
 * [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)
 
 #### Projects

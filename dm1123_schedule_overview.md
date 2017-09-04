@@ -17,6 +17,7 @@
         <ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li>
+        <li>Letters to Next Cohort</li>
         <li>Time &amp; Energy Management</li>
         <lI>Adobe Illustrator and Photoshop Overview</lI>
         <li>Screening: Helvetica</li>
@@ -52,7 +53,8 @@
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail.md"></a>Sep 29
-        <ul>      
+        <ul> 
+        <li>Brand Assignment</li>     
         <li>LOGO Show & Tells</strong></li>
         <li>Show and Tells:</li>
             <ul>

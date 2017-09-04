@@ -5,8 +5,16 @@
 # LOGO SHOW & TELLS
 ### Logo SHOW & TELL Assignments
 
-Brand | Team 
+Brand | Student 
 --- | --- 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
+ | 
  | 
  | 
  | 
@@ -18,12 +26,11 @@ Brand | Team
  | 
   
 ### Logo SHOW & TELL Directions
-* Pair up w/ 1 classmate 
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
 * Post your selection on Slack in the VFS channel.
-  * One brand per team. 
-  * Two Teams can not do the same brand. 
-  * First team who posts their choice on slack gets the brand.
+  * One brand per student. 
+  * Two students can not do the same brand. 
+  * First student who posts their choice on slack gets the brand.
 * Create a **8 minutes or less** presentation (pdf, powerpoint, keynote, quicktime, etc.) that shows and discusses the history of the evolution of the logo. 
 * You should find out the name of the logo designer (if you can), the dates that the logo was redesigned, and why it was redesigned.
 * Cite your sources.

@@ -48,19 +48,11 @@ Cover and spine label:
 * Your first and last name
 * Your Logo
 * The Name of Your Project
-* Visual Foundation Studio 2014 or VFS 2014
+* Visual Foundation Studio 2017 or VFS 2017
 
-## END OF SEMESTER DROPBOX LINK REQUIREMENTS  
+## Create a google drive folder, VFS Fall 2017 Your_First_Name, and share with deangela.duff@nyu.edu 
 
-You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
-
-Each student will provide their own dropbox link. A dropbox link is actually different than sharing an actual dropbox folder.
-
-Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
- 
-Create a dropbox link with the following contents:
-
-Folders:
+with the following folders and assignment files as pdf:
 * 01 Logo–1st draft
 * 02 Logo–2nd draft
 * 03 Logo–Final
@@ -73,12 +65,6 @@ Folders:
 * 10 End of Semester Book - 1st draft
 * 11 End of Semester Book - 2nd draft
 * 12 End of Semester Book - Final
-
-All assignments should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd)
-
-Make sure that any type in illustrator has been converted to outlines or include the typeface(s) in the folder(s) instead.
-
-Make sure that images are included if they are not embedded within illustrator.
 
 ## FINAL SELF ASSESSMENT
 
