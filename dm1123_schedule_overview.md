@@ -139,8 +139,7 @@
     </tr>
     <tr>
         <td>11</td>   
-        <td>Nov 17</td>
-        <td>
+        <td>Nov 17
         <ul>
         <li>INTERFACE Wireframes 2nd Draft</li>
         <li>INTERFACE 1st Draft</li>
