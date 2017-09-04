@@ -1,4 +1,5 @@
 # DM-UY 1123 Visual Foundation Studio
+# DRAFT - NOT FINAL until Friday Sep 8
 
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 

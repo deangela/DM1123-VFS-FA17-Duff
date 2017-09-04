@@ -3,6 +3,8 @@
 
 ---
 
+#DRAFT - NOT FINAL until Friday Sep 8
+
 *All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.
 
 *Gitbook & Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.***
@@ -43,6 +45,7 @@
             <ul>
             <li>David Carson</li>
             <li>Nicholas Felton</li>
+            <li>David McCandless</li>
             <li>Stefan Sagmeister</li> 
             <li>Andy Warhol</li>
             <li>Paula Scher</li>
@@ -76,6 +79,7 @@
             <li>Saul Bass</li>
             <li>Shepard Fairey</li>
             <li>Banksy</li>
+            <li>Basquiat</li>
             </ul>
         </ul>
         </td>
