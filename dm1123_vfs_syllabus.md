@@ -1,16 +1,16 @@
 # DM-UY 1123 Visual Foundation Studio
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
     Fridays • 10am-1:50pm • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: None
    
-####Gitbook: http://deangela.gitbooks.io/visual-foundation-studio/content/
+####Gitbook: https://deangela.gitbooks.io/visual-foundation-studio-fall-2017/content/
 ####Course Management Site: http://bxmc.slack.com 
 
 ---
@@ -100,18 +100,18 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% assignments and tickets to leave
-* 15% end of semester portfolio PDF (or book for extra credit)
-* 10% midterm (final logo)
-* 10% final interface 
-* 10% final physical application
-* 10% end of semester dropbox folder
+* 15% end of semester deliverables
+* 15% final: end of semester portfolio pdf (or book for extra credit)
+* 10% midterm: logo project
+* 10% physical application project 
+* 10% interface project
+* 10% assignments and tickets to leave
 * 5% reading responses
 * 5% logo show and tell
 * 5% creator show and tell
 * 5% midterm (final logo) self assessment and rubric
-* 5% letter to next cohort, final self assessment and rubric
-* 5% IDM coursework documentation on sites.bxmc.poly.edu
+* 5% final self assessment and rubric
+* 5% letter to next cohort
 
 
 ##### Qualitative Grading Overview
@@ -180,6 +180,7 @@ These books (*) are available for purchase in the NYU bookstore, and will be on 
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe Indesign
+* [Wordpress](http://wp.nyu.edu) or [Tumblr](http://tumblr.com)
 
 
 ### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)

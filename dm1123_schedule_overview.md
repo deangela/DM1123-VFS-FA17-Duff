@@ -31,7 +31,7 @@
         </td>
     </tr>
     <tr>
-        <td colspan="3">Sep ??<br><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td>
+        <td colspan="3">Mon Sep 18 <i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td>
     </tr>
     <tr>
         <td>3</td> 
@@ -127,7 +127,7 @@
         </td>
     </tr>
      <tr>
-        <td colspan="2">Nov ??<i>Last Day to Withdraw</i></td>
+        <td colspan="2">Mon Nov 6<i>Last Day to Withdraw</i></td>
     </tr>
     <tr>
         <td>10</td>     
@@ -140,6 +140,7 @@
     <tr>
         <td>11</td>   
         <td>Nov 17</td>
+        <td>
         <ul>
         <li>INTERFACE Wireframes 2nd Draft</li>
         <li>INTERFACE 1st Draft</li>
@@ -148,11 +149,11 @@
     </tr>
        <tr>
         <td></td>   
-        <td>Nov 23<strong><i>De Angela's Birthday</i></strong></td>
+        <td>Nov 23<strong> <i>De Angela's Birthday</i></strong></td>
     </tr>
     <tr>
         <td></td>   
-        <td>Nov 24<strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
+        <td>Nov 24<strong> <i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>12</td>  
