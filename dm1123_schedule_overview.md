@@ -29,12 +29,12 @@
     <tr>
         <td>2</td>    
         <td><a href="week_2_detail.md"></a>Sep 15
-        <strong><i>NO CLASS: Instructor at Dept. Retreat</i></strong>
-        Do Homework. There is a lot of it. Do not wait until the last minute. Use the time we would be meeting in class to do some of it.
+        <strong><i>NO CLASS Instructor at Dept. Retreat</i></strong>
+        Do The Homework. There is a lot of it. Do not wait until the last minute. Use the time we would be meeting in class to do some of it.
         </td>
     </tr>
     <tr>
-        <td colspan="3">Mon Sep 18 <i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td>
+        <td colspan="3">Mon Sep 18 <strong><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></strong></td>
     </tr>
     <tr>
         <td>3</td> 
@@ -133,7 +133,7 @@
         </td>
     </tr>
      <tr>
-        <td colspan="2">Mon Nov 6<i>Last Day to Withdraw</i></td>
+        <td colspan="2">Mon Nov 6 <strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>
         <td>10</td>     
@@ -158,7 +158,7 @@
     </tr>
     <tr>
         <td></td>   
-        <td>Nov 24<strong> <i>NO CLASS: Thanksgiving Holiday</i></strong></td>
+        <td>Nov 24<strong> <i>NO CLASS Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>12</td>  
