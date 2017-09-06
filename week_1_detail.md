@@ -12,7 +12,7 @@
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sep 8</strong></td>
+  <td valign="top"><strong>Sep 8</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
