@@ -15,6 +15,7 @@
 * [Assignment: Image](dm1123_image.md)
 * [Assignment: Typefaces](dm1123_typefaces.md)
 * [Assignment: Composition and Concept](dm3193_composition_and_concept.md)
+* [Assignment: Process Website](dm1123vfs_process_website.md)
 * [Reading Responses](dm1123vfs_reading_responses.md)
 * [Midterm Self Assessment](dm1123vfsmidtermself_assessments.md)
 * [End of Semester Deliverables](dm1123_vfs_end_of_semester_deliverables.md)

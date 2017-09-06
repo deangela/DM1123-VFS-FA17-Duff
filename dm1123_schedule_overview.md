@@ -5,9 +5,12 @@
 
 #DRAFT - NOT FINAL until Friday Sep 8
 
-*All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.
+Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
 
-*Gitbook & Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.***
+**All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
+
+*Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class.*
+
 <table>
     <tr>
         <th width="4%">wk</th>
@@ -17,15 +20,17 @@
     <tr>
         <td>1</td>
         <td>Sep 8</td>
-        <td><a href="week_1_detail.md"></a>
+        <td><a href="week_1_detail.md">
         <ul>
-        <li>Course and Student Introductions</li>
+        <li>Student Introductions</li>
         <li>Overview of Course</li>
         <li>Letters to Next Cohort</li>
         <li>Time &amp; Energy Management</li>
+        <li>Good and Bad Design</li>
+        <li>Components: Color &amp; Type</li>
         <lI>Adobe Illustrator and Photoshop Overview</lI>
-        <li>Screening: Helvetica</li>
-        </ul>
+        <li>(if time) Screening: Helvetica</li>
+        </ul></a>
         </td>
     </tr>
     <tr>
@@ -33,7 +38,11 @@
         <td>Sep 15</td>     
         <td><a href="week_2_detail.md"></a>
         <strong><i>NO CLASS Instructor at Dept. Retreat</i></strong>
-        Do The Homework. There is a lot of it. Do not wait until the last minute. Use the time we would be meeting in class to do some of it.
+        <ul>
+        <li>Do The Homework. There is a lot of it.</li> 
+        <li>Do not wait until the last minute.</li> 
+        <li>Use the time we would be meeting in class to do some of it.</li>
+        </ul>
         </td>
     </tr>
     <tr>
@@ -44,8 +53,9 @@
         <td>Sept 22</td> 
         <td valign="top"><a href="week_3_detail.md"></a>
         <ul>
-        <li>Components: Color, Type, Image, Composition and Concept</li>
-        <li>Show & Tells:</li>
+        <li>Brand Assignment</li> 
+        <li>Components: Composition and Concept</li>
+        <li>Show &amp; Tells:</li>
             <ul>
             <li>David Carson</li>
             <li>Nicholas Felton</li>
@@ -61,9 +71,8 @@
         <td>4</td>
         <td>Sep 29</td>
         <td valign="top"><a href="week_4_detail.md"></a>
-        <ul> 
-        <li>Brand Assignment</li>     
-        <li>LOGO Show & Tells</strong></li>
+        <ul>         
+        <li>LOGO Show &amp; Tells</strong></li>
         <li>Show and Tells:</li>
             <ul>
             <li>Josef Müller-Brockmann</li>
@@ -115,7 +124,7 @@
         </td>
     </tr>
     <tr>
-    <td colspan="3">Oct 23-26 Midterm One on Ones: Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a></td>
+    <td colspan="3">Oct 23-26 <i>Midterm One on Ones: Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a></i></td>
     </tr>
     <tr>
         <td>8</td> 
@@ -142,7 +151,7 @@
         </td>
     </tr>
      <tr>
-        <td colspan="3">Mon Nov 6 <strong><i>Last Day to Withdraw</i></strong></td>
+        <td colspan="3">Mon Nov 6 <i>Last Day to Withdraw</i></td>
     </tr>
     <tr>
         <td>10</td>  
@@ -164,10 +173,10 @@
         </td>
     </tr>
        <tr>
-        <td colspan="3">Nov 23<strong> <i>De Angela's Birthday</i></strong></td>
+        <td colspan="3">Nov 23 <i>De Angela's Birthday</i></td>
     </tr>
     <tr>
-        <td colspan="3">Nov 24<strong> <i>NO CLASS Thanksgiving Holiday</i></strong></td>
+        <td colspan="3">Nov 24 <i>NO CLASS Thanksgiving Holiday</i></td>
     </tr>
     <tr>
         <td>12</td>
