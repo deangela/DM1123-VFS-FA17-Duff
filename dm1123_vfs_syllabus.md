@@ -6,11 +6,9 @@
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2017 
     Fridays • 10am-1:50pm • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 
-    Prerequisite: None
-   
+#### Office hours by appointment at http://calendly.com/deangela or directly after class   
 ####Gitbook: https://deangela.gitbooks.io/visual-foundation-studio-fall-2017/content/
 ####Course Management Site: http://bxmc.slack.com 
 
@@ -21,6 +19,7 @@
 
 This course allows students to harness the power of visual language in order to convey messages and meaning. The elements of visual foundation that will be covered include components (color, texture, image and typography), composition, and concept. Although non-digital mediums will be addressed, the understanding and use of industry-standard software is also a primary goal.
 
+Prerequisite: None
 
 ### PROGRAM GOALS
 
@@ -94,7 +93,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
+* Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
@@ -117,21 +116,21 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Qualitative Grading Overview
 
-Each student will be judged on the quality, experimentation, and improvement that their work shows.
+Each student will be judged on the commitment, fearlessness, and continuous improvement that their work shows. Incomplete or unsatisfactory work will receive a failing grade.
 
-###### A. Excellent (90-100)
+###### A. Excellent (90-100: Work of exceptional quality; Exceeds Expectations)
 Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the theory and practice behind visual foundation.
 
-###### B. Very Good / Good (80-89)
+###### B. Very Good / Good (80-89: Work of high quality)
 Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average understanding of visual foundation theory & practice.
 
-###### C. Satisfactory (70-79)
+###### C. Satisfactory (70-79: Average; Satisfies course requirements)
 Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of visual foundation theory & practice.
 
-###### D. Poor; Below Average (60-69)
+###### D. Poor; Below Average (60-69: Deficient, but passing)
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of visual foundation. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
-###### F. Unacceptable (59 & Below)
+###### F. Unacceptable (59 & Below: Failing Course Requirements)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
