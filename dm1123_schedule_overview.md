@@ -36,13 +36,14 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     <tr>
         <td>2</td>
         <td>Sep 15</td>     
-        <td><a href="week_2_detail.md"></a>
+        <td><a href="week_3_detail.md">
         <strong><i>NO CLASS Instructor at Dept. Retreat</i></strong>
         <ul>
         <li>Do The Homework. There is a lot of it.</li> 
         <li>Do not wait until the last minute.</li> 
         <li>Use the time we would be meeting in class to do some of it.</li>
         </ul>
+        </a>
         </td>
     </tr>
     <tr>
@@ -51,11 +52,11 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     <tr>
         <td>3</td> 
         <td>Sept 22</td> 
-        <td valign="top"><a href="week_3_detail.md"></a>
+        <td valign="top"><a href="week_3_detail.md">
         <ul>
         <li>Brand Assignment</li> 
         <li>Components: Composition and Concept</li>
-        <li>Show &amp; Tells:</li>
+        <li>Creator Show &amp; Tells:</li>
             <ul>
             <li>David Carson</li>
             <li>Nicholas Felton</li>
@@ -65,6 +66,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Paula Scher</li>
             </ul>
         </ul>
+        </a>
         </td>
     </tr>
     <tr>
@@ -73,7 +75,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td valign="top"><a href="week_4_detail.md"></a>
         <ul>         
         <li>LOGO Show &amp; Tells</strong></li>
-        <li>Show and Tells:</li>
+        <li>Creator Show and Tells:</li>
             <ul>
             <li>Josef Müller-Brockmann</li>
             <li>Alexander Rodchenko</li>
@@ -89,7 +91,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_5_detail.md"></a>
         <ul>
         <li>LOGO 1st Draft</li>
-        <li>Show and Tells:</li>
+        <li>Creator Show and Tells:</li>
             <ul>
             <li>Saul Bass</li>
             <li>Shepard Fairey</li>
@@ -132,7 +134,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_8_detail.md"></a>
         <ul>
         <li>PHYSICAL APP 1st Draft</li>
-        <li>Show and Tells:</li>
+        <li>Creator Show and Tells:</li>
             <ul>
             <li>Peter Saville</li>
             <li>Chip Kidd</li>
