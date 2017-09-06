@@ -66,6 +66,8 @@
   <td valign="top">do</td>
   <td>
   <ul>
+  <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
+  <li>Read or View <a href="" target="_blank">Letters for the Next Cohort from Spring 2017</a> with your NYU google account</li>
   <li>Post your process website URL to the vfs_fa17 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
