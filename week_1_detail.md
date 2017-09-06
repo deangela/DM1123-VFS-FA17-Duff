@@ -17,17 +17,21 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-<strong>Course and Student Introductions</strong><br>
+<strong>Student Introductions</strong><br>
 
 <strong>Overview of Course</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Syllabus</li>
-<ul>
- <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
- <li>Reading the weekly schedule. NOTE: Due on date listed and Fri Dec 22nd</li>
- <li>Discuss course &amp; learning objectives in syllabus</li>
-</ul>
+  <ul>
+  <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
+  <li>Reading the weekly schedule. 
+  <ul>
+  <li>NOTE: Due on date listed and</li>  
+  <li>Fri Dec 22nd</li>
+  </ul>
+  <li>Discuss course &amp; learning objectives in syllabus</li>
+  </ul>
 <li>Assign Show &amp; Tells</li>
 </ul>
 
@@ -42,20 +46,20 @@
 </ul>
 
 </ul>
-<strong>REVIEW ASSIGNMENTS</strong>
+<strong>Review Assignments</strong>
   <ul>  
   <li><a href="assigned_creator_show_and_tells.md">Creator Show &amp; Tells</a></li>
   <Li><a href="dm1123_color.md">Color</a></li>
   <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
 
-<strong>REVIEW <a href="dm1123_vfs_recommended_resources.md">COLOR RESOURCES</a></strong>
+<strong>Review <a href="dm1123_vfs_recommended_resources.md">Color Resources</a></strong>
 <ul>
   <li>Color</li>
   <li>RGB vs. CMYK</li>
  </ul>
  
- <strong>REVIEW <a href="dm1123_vfs_recommended_resources.md">TYPE RESOURCES</a></strong>
+ <strong>Review <a href="dm1123_vfs_recommended_resources.md">Type Resources</a></strong>
  <ul>
   <ul>
   <li>Type Foundries</li>

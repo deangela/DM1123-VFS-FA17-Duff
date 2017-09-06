@@ -17,59 +17,25 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-<strong>Course and Student Introductions</strong><br>
-
-<strong>Overview of Course</strong>
-<ul>
-<li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
-<li> Syllabus</li>
-<ul>
- <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook and/or annotate directly on gitbook (I'll show you how on the first day of class).</li>
- <li>Reading the weekly schedule. NOTE: Due on date listed and Fri Dec 22nd</li>
- <li>Discuss course &amp; learning objectives in syllabus</li>
-</ul>
-<li>Assign Show &amp; Tells</li>
-</ul>
-
-
-<strong>Why is this class important?</strong>
-<ul>
-<li>Visual interfaces are all around us. </li>
-<li>Visual communication does make a difference and it communicates.</li>
-<li>It is way more than about making something "look pretty."</li>
-<li>It's about clarity, meaning, and emotion.</li>
-
-</ul>
-
-</ul>
-<strong>REVIEW ASSIGNMENTS</strong>
+<strong>Critique Assignments</strong>
   <ul>  
-  <li>Creator Show &amp; Tells</li>
-  <Li>Color</li>
-  <li>Type</li>
-  <li>Image</li>
-  <li>Composition</li>
-  <li>Concept</li>
-  </ul>
-
-<strong>REVIEW REFERENCES</strong>
-<ul>
-  <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
-  <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
-  <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
-  <li><a href="http://0to255.com" target="_blank">0to255</a></li>
-  <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
- </ul>
- 
+  <li><a href="assigned_creator_show_and_tells.md">Creator Show &amp; Tells</a></li>
+  <Li><a href="dm1123_color.md">Color</a></li>
+  <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
   </td>
- 
+<strong>Rules of the Critique</strong> 
+<ul>
+<li>Be Present and Engaged</li>
+<li>Give Feedback to your classmates</li>
+<li>Do NOT take feedback personally.</li>
+<li>Take Notes</li>
+</ul>
 </tr>
 
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
-  <td></td>
   <td>
   <strong>Graphic Design The New Basics</strong>
   <ul>
