@@ -19,8 +19,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>1</td>
-        <td>Sep 8</td>
-        <td><a href="week_1_detail.md">
+        <td><a href="week_1_detail.md">Sep 8</a></td>
+        <td>
         <ul>
         <li>Student Introductions</li>
         <li>Overview of Course</li>
@@ -30,20 +30,21 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <li>Components: Color &amp; Type</li>
         <lI>Adobe Illustrator and Photoshop Overview</lI>
         <li>(if time) Screening: Helvetica</li>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sep 15</td>     
-        <td><a href="week_3_detail.md">
+        <td><a href="week_3_detail.md">Sep 15</a></td>     
+        <td>
         <strong><i>NO CLASS Instructor at Dept. Retreat</i></strong>
+        
         <ul>
         <li>Do The Homework. There is a lot of it.</li> 
         <li>Do not wait until the last minute.</li> 
         <li>Use the time we would be meeting in class to do some of it.</li>
         </ul>
-        </a>
+        
         </td>
     </tr>
     <tr>
@@ -51,8 +52,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>3</td> 
-        <td>Sept 22</td> 
-        <td valign="top"><a href="week_3_detail.md">
+        <td><a href="week_3_detail.md">Sept 22</a></td> 
+        <td valign="top">
         <ul>
         <li>Brand Assignment</li> 
         <li>Components: Composition and Concept</li>
@@ -66,7 +67,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Paula Scher</li>
             </ul>
         </ul>
-        </a>
+        
         </td>
     </tr>
     <tr>

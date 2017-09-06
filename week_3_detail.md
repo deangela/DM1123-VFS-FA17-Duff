@@ -2,7 +2,7 @@
 ##### Fall 2017 • De Angela L. Duff • Fridays 10am-1:50pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](dm1123_schedule_overview.md) Week 1
+## [Schedule:](dm1123_schedule_overview.md) Week 3
 
 
 <table>
