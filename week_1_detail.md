@@ -44,26 +44,24 @@
 </ul>
 <strong>REVIEW ASSIGNMENTS</strong>
   <ul>  
-  <li>Creator Show &amp; Tells</li>
-  <Li>Color</li>
-  <li>Type</li>
+  <li><a href="assigned_creator_show_and_tells.md">Creator Show &amp; Tells</a></li>
+  <Li><a href="dm1123_color.md">Color</a></li>
+  <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
 
-<strong>REVIEW COLOR RESOURCES</strong>
+<strong>REVIEW <a href="dm1123_vfs_recommended_resources.md">COLOR RESOURCES</a></strong>
 <ul>
-  <li><a href="https://kuler.adobe.com/explore" target="_blank">Kuler</a></li>
-  <li><a href="http://www.colorhexa.com" target="_blank">ColorHexa</a></li>
-  <li><a href="http://www.colorzilla.com" target="_blank">ColorZilla</a></li>
-  <li><a href="http://0to255.com" target="_blank">0to255</a></li>
-  <li><a href="http://color-wheel-pro.com/color-meaning.html" target="_blank">Color Meaning</a></li>
+  <li>Color</li>
+  <li>RGB vs. CMYK</li>
  </ul>
  
- <strong>REVIEW TYPE RESOURCES</strong>
+ <strong>REVIEW <a href="dm1123_vfs_recommended_resources.md">TYPE RESOURCES</a></strong>
  <ul>
-  <li><a href="http://thinkingwithtype.com" target="_blank">Thinking With Type</a></li>
-  <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: What Makes a Font Bad?</li>
-    <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: How Do You Create Your Own Typefaces?</li>
-    <li><a href="dm1123_vfs_recommended_resources.md">Resources</a>: Mutable Typefaces</li>
+  <ul>
+  <li>Type Foundries</li>
+  <li>What Makes a Font Bad?</li>
+  <li>How Do You Create Your Own Typefaces?</li>
+    <li>Typography</li>
 </ul>
 
   </ul>
