@@ -23,7 +23,7 @@
   <Li><a href="dm1123_color.md">Color</a></li>
   <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
-  </td>
+  
 <strong>Rules of the Critique</strong> 
 <ul>
 <li>Be Present and Engaged</li>
@@ -31,6 +31,8 @@
 <li>Do NOT take feedback personally.</li>
 <li>Take Notes</li>
 </ul>
+
+</td>
 </tr>
 
 <!-- homework -->
