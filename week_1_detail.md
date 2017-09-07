@@ -44,7 +44,9 @@
 <li>It's about clarity, meaning, and emotion.</li>
 
 </ul>
-
+<strong>Discuss</strong>
+<uL>
+<li><a href="https://www.theverge.com/2017/8/15/16151812/facebook-news-feed-redesign-blue-header-circle-profile-picture-bubbles-messages" target="_blank">Facebook Redesign</a></li>
 </ul>
 <strong>Review Assignments</strong>
   <ul>  

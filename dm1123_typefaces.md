@@ -6,7 +6,7 @@
 
 * **Post to wordpress or tumblr, your favorite typeface used within an image.**
 
-* **List the typeface’s family (Consult http://thinkingwithtype.com):**
+* **List the typeface’s family (Consult Lessons in Typography book or http://thinkingwithtype.com):**
   * serif
   * sans serif, 
   * slab serif, 

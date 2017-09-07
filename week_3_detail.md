@@ -24,7 +24,7 @@
   <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
   
-<strong>Rules of the Critique</strong> 
+<strong>Remember The Rules of the Critique</strong> 
 <ul>
 <li>Be Present and Engaged</li>
 <li>Give Feedback to your classmates</li>
@@ -69,11 +69,12 @@
   <td>
   <ul>
   <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
-  <li>Read or View <a href="" target="_blank">Letters for the Next Cohort from Spring 2017</a> with your NYU google account</li>
+  <li>Read or View <a href="" target="_blank"></a>Letters for the Next Cohort from Fall 2017 with your NYU google account</li>
   <li>Post your process website URL to the vfs_fa17 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
   <li>Do <a href="dm1123_typefaces.md">Assignment: Typeface</a></li>
+  <li>(if applicable) Do <a href="assigned_creator_show_and_tells.md">Creator Show &amp; Tells</a></li>
   </ul>
   <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
