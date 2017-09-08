@@ -69,7 +69,7 @@
   <td>
   <ul>
   <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
-  <li>Read or View <a href="" target="_blank"></a>Letters for the Next Cohort from Fall 2017 with your NYU google account</li>
+  <li>Read or View <a href="https://drive.google.com/open?id=0B3GbS-Wqk2AHRTlFdEt6Mk5jcXM" target="_blank"></a>Letters for the Next Cohort from Fall 2017 with your NYU google account</li>
   <li>Post your process website URL to the vfs_fa17 slack channel</li>
   <li>Do <a href="assignment_good_vs_bad.md">Assignment: Good and Bad</a></li>
   <li>Do <a href="dm1123_color.md">Assignment: Color</a></li>
