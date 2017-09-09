@@ -87,17 +87,19 @@
 ### RECOMMENDED WEB RESOURCES
 
 * **Adobe Illustrator, InDesign & Photoshop**
- *  http://nyu.edu/lynda (Free Lynda.com courtesy of NYU)
+ * [Lynda.com for free courtesy of NYU](http://nyu.edu/lynda)
  * http://design.tutsplus.com
 
 
 * **Color**
+  * [Brief Lesson on Color Theory (video)](https://vimeo.com/114900089)
   * [Kuler](https://kuler.adobe.com/explore)
   * [ColorHexa](http://www.colorhexa.com)
   * [ColorZilla](http://www.colorzilla.com)
   * [ColorZilla’s Gradient Editor](http://www.colorzilla.com/gradient-editor)
   * [0to255](http://0to255.com)
   * [Color Meaning](http://color-wheel-pro.com/color-meaning.html)
+
 
 
 * **RGB vs. CMYK**
@@ -117,12 +119,12 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 
 
 * **What Makes a Font Bad?**
-  * Communication Arts: Know If a Font Sucks<br>http://www.commarts.com/columns/know-font-sucks
-  * digitalrelativity.com: WHAT MAKES A BAD TYPEFACE, AND HOW TO FIX IT<br> http://digitalrelativity.com/fixing-bad-typeface
-  *  Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk http://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk
-  * Examples of Bad Font Use: Avoid These Common Mistakes - http://www.brighthub.com/multimedia/publishing/articles/125993.aspx
-  * 10 Iconic Fonts and Why You Should Never Use Them - http://www.webdesignerdepot.com/2011/02/10-iconic-fonts-and-why-you-should-never-use-them
-  * 23 Really Bad Font - Choiceshttp://bonfx.com/23-really-bad-font-choices
+  * [Communication Arts: Know If a Font Sucks](http://www.commarts.com/columns/know-font-sucks)
+  * [digitalrelativity.com: WHAT MAKES A BAD TYPEFACE, AND HOW TO FIX IT](http://digitalrelativity.com/fixing-bad-typeface)
+  * [Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk](http://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk)
+  * [Examples of Bad Font Use: Avoid These Common Mistakes](http://www.brighthub.com/multimedia/publishing/articles/125993.aspx)
+  * [10 Iconic Fonts and Why You Should Never Use Them](http://www.webdesignerdepot.com/2011/02/10-iconic-fonts-and-why-you-should-never-use-them)
+  * [23 Really Bad Font - Choices](http://bonfx.com/23-really-bad-font-choices)
 
 
 * **How Do You Create Your Own Typefaces?** 
@@ -134,14 +136,14 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 
 * **Typography**
   * Mac OS application: Font Book 
-  * Thinking with Type – http://thinkingwithtype.com
-  * Designing with Type – http://designingwithtype.com
-  * Fount - http://fount.artequalswork.com
-  * Wordmark - http://wordmark.it
-  * What the Font - https://www.myfonts.com/WhatTheFont/
-  * Typolis – http://typolis.de/version1/engl/typolis.htm
-  * Counterspace – http://www.counterspace.us/typography
-  * Mutable Typeface (multiple ways to typeset)
+  * [Thinking with Type](http://thinkingwithtype.com)
+  * [Designing with Type](http://designingwithtype.com)
+  * [Fount](http://fount.artequalswork.com)
+  * [Wordmark](http://wordmark.it)
+  * [What the Font](https://www.myfonts.com/WhatTheFont/)
+  * [Typolis](http://typolis.de/version1/engl/typolis.htm)
+  * [Counterspace](http://www.counterspace.us/typography)
+  * [Mutable Typeface (multiple ways to typeset)]
     * [House Industries: Ed Benguiat](http://www.houseind.com/fonts/edbenguiatfonts/fontfeatures)
     * [Typotheque: Julien](https://www.typotheque.com/fonts/julien/features)
 

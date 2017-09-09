@@ -60,11 +60,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <li>Creator Show &amp; Tells:</li>
             <ul>
             <li>David Carson</li>
-            <li>Nicholas Felton</li>
-            <li>David McCandless</li>
-            <li>Stefan Sagmeister</li> 
-            <li>Andy Warhol</li>
-            <li>Paula Scher</li>
+            <li>House Industries</li>         
             </ul>
         </ul>
         
@@ -108,7 +104,13 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_6_detail.md"></a>
         <ul>
         <li>LOGO 2nd Draft</li>
-        </ul>
+        <ul>
+        <li>Nicholas Felton</li>
+            <li>David McCandless</li>
+            <li>Stefan Sagmeister</li> 
+            <li>Andy Warhol</li>
+            <li>Paula Scher</li>
+        </ul></ul>
         </td>
     </tr>
     <tr>
