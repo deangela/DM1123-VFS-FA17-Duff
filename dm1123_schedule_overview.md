@@ -3,8 +3,6 @@
 
 ---
 
-#DRAFT - NOT FINAL until Friday Sep 8
-
 Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
 
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
