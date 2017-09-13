@@ -7,21 +7,21 @@
 
 Brand | Student 
 --- | --- 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
- | 
+Apple | Leon 
+Disney | Shehara 
+Dunkin' Donuts | Nicole 
+Google | Sophie
+Instagram | Claire 
+Kodak | Christine
+Mastercard | Maggie 
+McDonalds | Joseph
+Microsoft | Aryan 
+Pepsi | Priyana
+Shell | Sean
+Starbucks | Maya 
+Tesla | Abhi 
+Ubisoft | Jessy 
+Volkswagon | Justin
  | 
  | 
   
