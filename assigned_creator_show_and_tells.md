@@ -7,24 +7,24 @@
 
 Creator | Student | Date
 --- | --- | ---
-Banksy (street art) |  | 
-Basquiat (street art)  |  | 
-Saul Bass (for logos, not film titles) |  | 
+Banksy (street art) | Joseph | 
+Basquiat (street art)  | Abhi | 
+Saul Bass (for logos, not film titles) | Maya | 
 Josef Muller-Brockman (composition / the grid) |  |
-David Carson (type & image) |  | 
+David Carson (type & image) | Nicole | 
 Art Chantry (music / punk aesthetic) |  | 
-Shepard Fairey (semiotics) |  | 
-Nicholas Felton (data visualization) | | 
-House Industries (type) | |
-Tibor Kalman (concept / image) |  | 
-Chip Kidd (book jackets) |  | 
-Barbara Krueger (type & image) | | 
-David McCandless (data visualization) | |
-Aleksander Rodchenko (composition & photography) |  | 
-Stefan Sagmeister (type & image) |  | 
-Peter Saville (music / punk aesthetic) |  | 
-Paula Scher (type & image) |  | 
-Andy Warhol (image) | |  
+Shepard Fairey (semiotics) | Justin | 
+Nicholas Felton (data visualization) | Sean | 
+House Industries (type) | Aryan |
+Tibor Kalman (concept / image) | Christine | 
+Chip Kidd (book jackets) | Sophie | 
+Barbara Krueger (type & image) | Rudhi | 
+David McCandless (data visualization) | Jessy |
+Aleksander Rodchenko (composition & photography) | Leon | 
+Stefan Sagmeister (type & image) | Shehara | 
+Peter Saville (music / punk aesthetic) | Priyana | 
+Paula Scher (type & image) | Maggie | 
+Andy Warhol (image) | Derek|  
 
 
 #### CREATOR SHOW & TELLS Directions
