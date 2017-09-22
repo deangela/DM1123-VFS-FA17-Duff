@@ -20,6 +20,10 @@
 <strong>Critique Assignments</strong>
   <ul>  
   <li><a href="assigned_creator_show_and_tells.md">Creator Show &amp; Tells</a></li>
+  <ul>
+  <li>David Carson</li>
+  <li>House Industries</li>
+  </ul>
   <Li><a href="dm1123_color.md">Color</a></li>
   <li><a href="dm1123_typefaces.md">Type</a></li>
   </ul>
