@@ -69,14 +69,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>Sep 29</td>
         <td valign="top"><a href="week_4_detail.md"></a>
         <ul>         
-        <li>LOGO Show &amp; Tells</strong></li>
-        <li>Creator Show and Tells:</li>
-            <ul>
-            <li>Josef Müller-Brockmann</li>
-            <li>Alexander Rodchenko</li>
-            <li>Barbara Krueger</li>
-            <li>Tibor Kalman</li>
-            </ul>
+        <li>LOGO Show &amp; Tells</strong></li>    
         </ul>
         </td>
     </tr>
@@ -102,13 +95,15 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_6_detail.md"></a>
         <ul>
         <li>LOGO 2nd Draft</li>
-        <ul>
-        <li>Nicholas Felton</li>
+        <li>Creator Show and Tells:</li>
+            <ul>
+            <li>Nicholas Felton</li>
             <li>David McCandless</li>
             <li>Stefan Sagmeister</li> 
             <li>Andy Warhol</li>
             <li>Paula Scher</li>
-        </ul></ul>
+            </ul>
+        </ul>
         </td>
     </tr>
     <tr>
@@ -140,6 +135,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Peter Saville</li>
             <li>Chip Kidd</li>
             <li>Art Chantry</li>
+            <li>Fillmore Poster</li>
             </ul>
         </ul>
         </td>
@@ -150,6 +146,13 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td valign="top">
         <ul>
         <li>PHYSICAL APP 2nd Draft</li>
+        <li>Creator Show and Tells:</li>
+            <ul>
+            <li>Josef Müller-Brockmann</li>
+            <li>Alexander Rodchenko</li>
+            <li>Barbara Krueger</li>
+            <li>Tibor Kalman</li>
+            </ul>
         </ul>
         </td>
     </tr>
@@ -162,6 +165,11 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>
         <ul>
         <li>INTERFACE Wireframes 1st Draft</li>
+        <li>Creator Show and Tells:</li>    
+            <ul>
+            <li>Marian Bantjes</li>
+            <li>Tadanori Yokoo</li>
+            </ul>
         </ul>
        </td>
     </tr>

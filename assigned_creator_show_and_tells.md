@@ -7,24 +7,29 @@
 
 Creator | Student | Date
 --- | --- | ---
-Banksy (street art) | Joseph | 
-Basquiat (street art)  | Abhi | 
-Saul Bass (for logos, not film titles) | Maya | 
-Josef Muller-Brockman (composition / the grid) |  |
-David Carson (type & image) | Nicole | 
-Art Chantry (music / punk aesthetic) |  | 
-Shepard Fairey (semiotics) | Justin | 
-Nicholas Felton (data visualization) | Sean | 
-House Industries (type) | Aryan |
-Tibor Kalman (concept / image) | Christine | 
-Chip Kidd (book jackets) | Sophie | 
-Barbara Krueger (type & image) | Rudhi | 
-David McCandless (data visualization) | Jessy |
-Aleksander Rodchenko (composition & photography) | Leon | 
-Stefan Sagmeister (type & image) | Shehara | 
-Peter Saville (music / punk aesthetic) | Priyana | 
-Paula Scher (type & image) | Maggie | 
-Andy Warhol (image) | Derek|  
+David Carson (type & image) | Nicole | Sep 22
+House Industries (type) | Aryan | Sep 22
+Banksy (street art) | Joseph | Oct 06
+Basquiat (street art)  | Abhi | Oct 06
+Saul Bass (for logos, not film titles) | Maya | Oct 06
+Shepard Fairey (semiotics) | Justin | Oct 06
+Nicholas Felton (data visualization) | Sean | Oct 13
+David McCandless (data visualization) | Jessy | Oct 13
+Stefan Sagmeister (type & image) | Shehara | Oct 13
+Andy Warhol (image) | Derek | Oct 13
+Paula Scher (type & image) | Maggie | Oct 13
+Peter Saville (music / punk aesthetic) | Priyana | Oct 27
+Chip Kidd (book jackets) | Sophie |  Oct 27
+Art Chantry (music / punk aesthetic) | Claire |  Oct 27
+Fillmore Posters |  } Oct 27
+Josef Muller-Brockmann &amp; Swiss Design (composition & the grid) | Shirley | Nov 3
+Aleksander Rodchenko &amp; Constructivism (composition & photography) | Leon | Nov 3
+Barbara Krueger (type & image) | Rudhi | Nov 3
+Tibor Kalman (concept / image) | Christine | Nov 3
+Marian Bantjes | | Nov 06
+Tadanori Yokoo | | Nov 06
+ 
+
 
 
 #### CREATOR SHOW & TELLS Directions
