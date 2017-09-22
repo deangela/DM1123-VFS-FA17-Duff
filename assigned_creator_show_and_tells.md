@@ -21,13 +21,13 @@ Paula Scher (type & image) | Maggie | Oct 13
 Peter Saville (music / punk aesthetic) | Priyana | Oct 27
 Chip Kidd (book jackets) | Sophie |  Oct 27
 Art Chantry (music / punk aesthetic) | Claire |  Oct 27
-Fillmore Posters |  } Oct 27
+Fillmore Posters | Mayda | Oct 27
 Josef Muller-Brockmann &amp; Swiss Design (composition & the grid) | Shirley | Nov 3
 Aleksander Rodchenko &amp; Constructivism (composition & photography) | Leon | Nov 3
 Barbara Krueger (type & image) | Rudhi | Nov 3
 Tibor Kalman (concept / image) | Christine | Nov 3
 Marian Bantjes | | Nov 06
-Tadanori Yokoo | | Nov 06
+Tadanori Yokoo | Anisa | Nov 06
  
 
 

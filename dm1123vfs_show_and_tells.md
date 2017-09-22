@@ -7,7 +7,10 @@
 
 Brand | Student 
 --- | --- 
+Adidas | Abhi 
 Apple | Leon 
+Barbie | Priyana
+Coca-Cola | Rudhi
 Disney | Shehara 
 Dunkin' Donuts | Nicole 
 Google | Sophie
@@ -15,15 +18,16 @@ Instagram | Claire
 Kodak | Christine
 Mastercard | Maggie 
 McDonalds | Joseph
-Microsoft | Aryan 
-Pepsi | Priyana
+Microsoft | Aryan
+Nestlé | Mayda 
 Shell | Sean
 Starbucks | Maya 
-Tesla | Abhi 
+Tencent | Chester
 Ubisoft | Jessy 
 Volkswagon | Justin
- | 
- | 
+Yahoo | Shirley
+Nickelodeon | Anisa
+  
   
 ### Logo SHOW & TELL Directions
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
