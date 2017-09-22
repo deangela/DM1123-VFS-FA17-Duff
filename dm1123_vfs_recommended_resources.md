@@ -150,7 +150,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 
 * **Logos**
  * [Logopedia](http://logos.wikia.com/wiki/Logopedia)
- * [The difference between a brand and a logo](http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand)
+ * [The difference between a brand and a logo](https://blog.chooseimpulse.com/difference-between-logo-design-brand-identity)
  * [3 Basic Types of Logos](http://www.logodesignsource.com/types.html)
    * [Icons / Symbols](http://thenounproject.com)
    * Logotypes
