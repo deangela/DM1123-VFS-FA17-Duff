@@ -27,11 +27,13 @@ Ubisoft | Jessy
 Volkswagon | Justin
 Yahoo | Shirley
 Nickelodeon | Anisa
-  
-**Upload your presentation exported AS A PDF in the following google drive folder:**
+
+Various ways to share your presentation with professor (not limited to):
+
+* **Upload your presentation exported AS A PDF in the following google drive folder:**
 https://drive.google.com/open?id=0B3GbS-Wqk2AHVWVJLUxqVlJYZ3M
-**OR** share a link (i.e. prezi, etc.) with me via the main slack channel
-**OR**  share a google slides presentation with deangela.duff@nyu.edu (file -> share) 
+* **OR** share a link (i.e. prezi, etc.) with me via the main slack channel
+* **OR**  share a google slides presentation with deangela.duff@nyu.edu (file -> share) 
 
 ### Logo SHOW & TELL Directions
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
