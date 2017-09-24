@@ -28,7 +28,11 @@ Volkswagon | Justin
 Yahoo | Shirley
 Nickelodeon | Anisa
   
-  
+**Upload your exported presentation AS A PDF in the google drive folder**
+https://drive.google.com/open?id=0B3GbS-Wqk2AHVWVJLUxqVlJYZ3M
+or share a link (i.e. prezi, etc.) with me via the main slack channel
+or share a google slides presentation with deangela.duff@nyu.edu (file -> share) 
+
 ### Logo SHOW & TELL Directions
 * Select an established brand that has had at least 3 logo iterations (ideally more) over the years. Think outside the box. 
 * Post your selection on Slack in the VFS channel.
