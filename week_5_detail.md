@@ -12,15 +12,16 @@
 </tr>
 <tr>
   <td valign="top">4</td>
-  <td valign="top"><strong>Sep 29</strong></td>
+  <td valign="top"><strong>Oct. 6</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-<li>Discuss IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
-<li>Discuss Next Week's Homework</li>
-<li>Discuss <a href="http://i.imgur.com/L9ku2ZA.jpg">Evolution of Batman Logo</a> by Cathryn Laver from <a href="https://www.calmtheham.com/collections" target="_blank">Calm the Ham</a></li>
-<li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+
+  <li><a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a></li>
+
+  
+
 </td>
 </tr>
 
@@ -30,7 +31,7 @@
   <td valign="top">do</td>
   <td>
   <ul>
-  <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+  <li><a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a></li>
   </ul>
   <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>

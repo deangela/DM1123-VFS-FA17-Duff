@@ -16,6 +16,7 @@ Dunkin' Donuts | Nicole
 Google | Sophie
 Instagram | Claire 
 Kodak | Christine
+Legos | Derek
 Mastercard | Maggie 
 McDonalds | Joseph
 Microsoft | Aryan
@@ -30,7 +31,7 @@ Nickelodeon | Anisa
 
 Various ways to share your presentation with professor (not limited to):
 
-* **Upload your presentation exported AS A PDF in the following google drive folder:**
+* **Upload your presentation exported AS A PDF in the following google drive folder your NYU GMAIL account (NOT your personal gmail account):**
 https://drive.google.com/open?id=0B3GbS-Wqk2AHVWVJLUxqVlJYZ3M
 * **OR** share a link (i.e. prezi, etc.) with me via the main slack channel
 * **OR**  share a google slides presentation with deangela.duff@nyu.edu (file -> share) 

@@ -67,10 +67,10 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     <tr>
         <td>4</td>
         <td>Sep 29</td>
-        <td valign="top"><a href="week_4_detail.md"></a>
+        <td valign="top"><a href="week_4_detail.md">
         <ul>         
         <li>LOGO Show &amp; Tells</strong></li>    
-        </ul>
+        </ul></a>
         </td>
     </tr>
     <tr>
