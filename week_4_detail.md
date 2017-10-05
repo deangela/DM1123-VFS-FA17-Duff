@@ -18,8 +18,7 @@
 <td valign="top">class</td>
 <td valign="top">
 <li>Discuss IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
-<li>Discuss Next Week's Homework</li>
-<li>Discuss <a href="http://i.imgur.com/L9ku2ZA.jpg">Evolution of Batman Logo</a> by Cathryn Laver from <a href="https://www.calmtheham.com/collections" target="_blank">Calm the Ham</a></li>
+
 <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
 </td>
 </tr>

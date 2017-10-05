@@ -7,6 +7,7 @@
     * [Week 3 Detail Sep 22](week_3_detail.md)
     * [Week 4 Detail Sep 29](week_4_detail.md)
     * [Week 5 Detail Oct 6](week_5_detail.md)
+    * [Week 6 Detail Oct 13](week_6_detail.md)
 * [Creator Show and Tells](assigned_creator_show_and_tells.md)
 * [Logo Show and Tells](dm1123vfs_show_and_tells.md)
 * [Project: Logo](dm1123vfs_projects_logo.md)

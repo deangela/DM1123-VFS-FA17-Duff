@@ -2,7 +2,7 @@
 ##### Fall 2017 • De Angela L. Duff • Fridays 10am-1:50pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](dm1123_schedule_overview.md) Week 5
+## [Schedule:](dm1123_schedule_overview.md) Week 6
 
 
 <table>
@@ -11,36 +11,47 @@
 <td>Fridays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">5</td>
-  <td valign="top"><strong>Oct. 6</strong></td>
+  <td valign="top">6</td>
+  <td valign="top"><strong>Oct. 13</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
 <td valign="top">
 <ul>
 <li>Discuss Next Week's Homework</li>
-<li>Discuss <a href="http://i.imgur.com/L9ku2ZA.jpg">Evolution of Batman Logo</a> by Cathryn Laver from <a href="https://www.calmtheham.com/collections" target="_blank">Calm the Ham</a></li>
-<li>Remaining <a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
-<li>Class critique of <a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a>
+<li>Class critique of <a href="dm1123vfs_projects_logo.md">Logo 2nd Draft</a>
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
-    <li>Saul Bass (Maya)</li>
-    <li>Shepard Fairey (Justin)</li>
-    <li>Banksy (Joseph)</li>
-    <li>Basquiat (Abhi)</li>
+    <li>Nicholas Felton (Sean)</li>
+    <li>David McCandless (Jessy)</li>
+    <li>Stefan Sagmeister (Shehara)</li> 
+    <li>Andy Warhol (Derek)</li>
+    <li>Paula Scher (Maggie)</li>
     </ul>
 </ul>
   
 </td>
 </tr>
+<!-- read -->
+<tr>
+  <td valign="top">read</td>
+  
+  <td valign="top">
+  <ul>
+  <li><a href="http://justcreative.com/2008/05/22/why-logo-design-does-not-cost-5-dollars/" target="_blank">Why professional logo design does not cost $5.00</a></li>
+ <li><a href="http://justcreative.com/2008/02/01/logo-design-process-of-top-graphic-designers/" target="_blank">The Logo Design Process of Top Logo Designers</a></li>
+<li><a href="http://justcreative.com/2008/01/08/how-to-design-a-logo/" target="_blank">How To Design A Logo</a></li>
+  </ul></td>
 
+
+</tr>
 
 <!-- do -->
 <tr>
   <td valign="top">do</td>
   <td>
   <ul>
-  <li><a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a></li>
+  <li><a href="dm1123vfs_projects_logo.md">Logo 2nd Draft</a></li>
   </ul>
   <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>

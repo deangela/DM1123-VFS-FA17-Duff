@@ -78,6 +78,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>Oct 06</td>
         <td><a href="week_5_detail.md"></a>
         <ul>
+        <li>Remaining Logo Show &amp; Tells</li>
         <li>LOGO 1st Draft</li>
         <li>Creator Show and Tells:</li>
             <ul>
