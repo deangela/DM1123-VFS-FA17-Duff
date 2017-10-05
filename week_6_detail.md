@@ -53,7 +53,7 @@
   <ul>
   <li><a href="dm1123vfs_projects_logo.md">Logo 2nd Draft</a></li>
   </ul>
-  <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>

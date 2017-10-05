@@ -26,7 +26,9 @@
 <li>Jessy</li>
 <li>Maggie</li>
 <li>Mayda</li>
+<li>Priyana</li>
 <li>Shirley</li>
+
 </ul>
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
@@ -49,7 +51,7 @@
   <ul>
   <li><a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a></li>
   </ul>
-  <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
