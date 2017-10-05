@@ -17,9 +17,11 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
+<ul>
 <li>Discuss IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
 
 <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+</ul>
 </td>
 </tr>
 
@@ -31,7 +33,7 @@
   <ul>
   <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
   </ul>
-  <strong>BEGIN <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>

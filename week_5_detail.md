@@ -18,10 +18,16 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
+<li>Discuss IDM / Clive Davis Student Mixer Today, Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall.</li>
 <li>Discuss Next Week's Homework</li>
 <li>Discuss <a href="http://i.imgur.com/L9ku2ZA.jpg">Evolution of Batman Logo</a> by Cathryn Laver from <a href="https://www.calmtheham.com/collections" target="_blank">Calm the Ham</a></li>
 <li>Remaining <a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
-<li>Class critique of <a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a>
+<ul>
+<li>Jessy</li>
+<li>Maggie</li>
+<li>Mayda</li>
+<li>Shirley</li>
+</ul>
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
     <li>Saul Bass (Maya)</li>
@@ -29,6 +35,7 @@
     <li>Banksy (Joseph)</li>
     <li>Basquiat (Abhi)</li>
     </ul>
+<li>Class critique of <a href="dm1123vfs_projects_logo.md">Logo 1st Draft</a>
 </ul>
   
 </td>
