@@ -29,6 +29,10 @@ Tibor Kalman (concept / image) | Christine | Nov 3
 Marian Bantjes | | Nov 06
 Tadanori Yokoo | Anisa | Nov 06
  
+* **Upload your presentation exported AS A PDF in the following google drive folder from your NYU GMAIL account (NOT your personal gmail account):**
+https://drive.google.com/drive/folders/0B3GbS-Wqk2AHWklzR3UyN1ZWS0E?usp=sharing
+* **OR** share a link (i.e. prezi, etc.) with me via the main slack channel
+* **OR**  share a google slides presentation with deangela.duff@nyu.edu (file -> share) 
 
 
 
