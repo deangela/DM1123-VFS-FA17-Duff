@@ -27,6 +27,7 @@
     <li>Stefan Sagmeister (Shehara)</li> 
     <li>Andy Warhol (Derek)</li>
     <li>Paula Scher (Maggie)</li>
+        <li>Shepard Fairey (Justin)</li>
     </ul>
 </ul>
   

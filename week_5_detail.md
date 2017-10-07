@@ -33,7 +33,6 @@
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
     <li>Saul Bass (Maya)</li>
-    <li>Shepard Fairey (Justin)</li>
     <li>Banksy (Joseph)</li>
     <li>Basquiat (Abhi)</li>
     </ul>
