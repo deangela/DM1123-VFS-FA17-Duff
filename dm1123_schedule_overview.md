@@ -110,7 +110,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     <tr>
         <td>7</td> 
         <td>Oct 20</td>    
-        <td><a href="week_7_detail.md"></a>
+        <td><a href="week_7_detail.md">
         <ul>
         <strong>
         <ul>
@@ -119,7 +119,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <li>Logo Self Reflection</li>
         </ul>
         </strong>
-        </ul>
+        </ul></a>
         </td>
     </tr>
     <tr>
