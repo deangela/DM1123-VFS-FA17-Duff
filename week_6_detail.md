@@ -18,7 +18,22 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li>Discuss Next Week's Homework</li>
+<li>Discuss</li>
+<ul>
+<li>Midterm</li>
+<li>Logo Rubric</li>
+  <ul>
+  <li>Pinned on Slack</li>
+  <li>Direct message to De Angela on Slack as a pdf</li>
+  <li>Put your name in the file name</li> 
+  <li>OR turn in physical copy</li>
+  </ul>
+  <li>Logo Self Reflection </li>
+   <ul>
+  <li>Pinned on Slack.</li>
+  <li>Direct message to De Angela on Slack as a pdf</li>
+  <li>Put your name in the file name</li> 
+  </ul>
 <li>Class critique of <a href="dm1123vfs_projects_logo.md">Logo 2nd Draft</a>
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
