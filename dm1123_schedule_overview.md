@@ -66,17 +66,17 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 29</td>
-        <td valign="top"><a href="week_4_detail.md">
+        <td><a href="week_4_detail.md">Sep 29</a></td>
+        <td valign="top">
         <ul>         
         <li>LOGO Show &amp; Tells</strong></li>    
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Oct 06</td>
-        <td><a href="week_5_detail.md">
+        <td><a href="week_5_detail.md">Oct 06</a></td>
+        <td>
         <ul>
         <li>Remaining Logo Show &amp; Tells</li>
         <li>LOGO 1st Draft</li>
@@ -87,13 +87,13 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Banksy</li>
             <li>Basquiat</li>
             </ul>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 13</td>     
-        <td><a href="week_6_detail.md">
+        <td><a href="week_6_detail.md">Oct 13</a></td>     
+        <td>
         <ul>
         <li>LOGO 2nd Draft</li>
         <li>Creator Show and Tells:</li>
@@ -104,13 +104,13 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Andy Warhol</li>
             <li>Paula Scher</li>
             </ul>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
         <td>7</td> 
-        <td>Oct 20</td>    
-        <td><a href="week_7_detail.md">
+        <td><a href="week_7_detail.md">Oct 20</a></td>    
+        <td>
         <ul>
         <strong>
         <ul>
@@ -119,7 +119,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <li>Logo Self Reflection</li>
         </ul>
         </strong>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
@@ -127,8 +127,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>8</td> 
-        <td>Oct 27</td>    
-        <td><a href="week_8_detail.md">
+        <td><a href="week_8_detail.md">Oct 27</a></td>    
+        <td>
         <ul>
         <li>PHYSICAL APP 1st Draft</li>
         <li>Creator Show and Tells:</li>
@@ -138,7 +138,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Art Chantry</li>
             <li>Fillmore Poster</li>
             </ul>
-        </ul></a>
+        </ul>
         </td>
     </tr>
     <tr>
