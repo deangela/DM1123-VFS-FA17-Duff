@@ -43,7 +43,7 @@
   <td>
   <strong>Schedule Midterm One on One: </strong>
   <ul>
-  <li>Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a> from Oct 23-26.<br><br>OPTIONAL: ONLY if you are also in my I&amp;P course, you have the option of booking 2, back-to-back blocks from Oct.30-Nov2.</li>
+  <li>Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a> from Oct 23-26.<br><br>OPTIONAL: ONLY if you are also in my I&amp;P course, you have the option of booking 2, back-to-back blocks from Oct.30-Nov2. So you only need to meet me with me once (or come to campus for an extra meeting) instead of two weeks in a row.</li>
   </ul>
   <strong>Physical Application: </strong>
   <ul>
