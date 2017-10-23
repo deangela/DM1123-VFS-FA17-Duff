@@ -130,7 +130,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_8_detail.md">Oct 27</a></td>    
         <td>
         <ul>
-        <li>PHYSICAL APP 1st Draft</li>
+        <li>PHYSICAL APP 1st Draft (Versions)</li>
         <li>Creator Show and Tells:</li>
             <ul>
             <li>Peter Saville</li>
@@ -146,7 +146,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>Nov 3</td>     
         <td valign="top">
         <ul>
-        <li>PHYSICAL APP 2nd Draft</li>
+        <li>PHYSICAL APP 2nd Draft (Variations)</li>
         <li>Creator Show and Tells:</li>
             <ul>
             <li>Josef Müller-Brockmann</li>

@@ -6,7 +6,7 @@
 # PROJECT: PHYSICAL APPLICATION (PA)
 Your final logo in color in a physical, applied state (i.e. poster, packaging, signage, apparel, business cards, stickers, etc.). Your choice for your logo’s applied state is up to you. You decide. There are literally hundreds of possible applied states. 
 
-#### PA 1st Draft    
+#### PA 1st Draft (Versions)    
 Post on your class website in grayscale (includes black and white) with physapp1 category or tag. 
 * Select 1 applied state for your one and true final logo
 * For that selected applied state only, do at least 3 different directions 
@@ -15,7 +15,7 @@ Post on your class website in grayscale (includes black and white) with physapp1
 * Select only 1 applied state (yes, this is repeated.)
 * The versions should NOT be for different applied states such as 1 for an album cover, tattoos, and yet another for a T-Shirt design.
 
-#### PA 2nd Draft    
+#### PA 2nd Draft (Variations) 
 Post on your class website in grayscale (includes black and white) or color with physapp2 category or tag. 
 * Choose the version selected in the previous class crit.
 * Do at least 3 different variations of the selected PA. 
