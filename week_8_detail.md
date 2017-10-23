@@ -41,9 +41,13 @@
 <tr>
   <td valign="top">do</td>
   <td>
+  <strong>Schedule Midterm One on One: </strong>
   <ul>
-  <li><i>Schedule Midterm One on Ones: Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a> from Oct 23-26. OPTIONAL: ONLY if you are also in my I&amp;P course, you have the option of booking 2, back-to-back blocks from Oct.30-Nov2.
-  <li><a href="dm1123vfs_projects_pa.md">Physical Application: 1st Draft</a></li>   
+  <li>Please schedule a 20 min appointment with De Angela through <a href="http://calendly.com/deangela" target="_blank">http://calendly.com/deangela</a> from Oct 23-26.<br><br>OPTIONAL: ONLY if you are also in my I&amp;P course, you have the option of booking 2, back-to-back blocks from Oct.30-Nov2.</li>
+  </ul>
+  <strong>Physical Application: </strong>
+  <ul>
+  <li><a href="dm1123vfs_projects_pa.md">1st Draft</a></li>   
   </ul>
   <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
