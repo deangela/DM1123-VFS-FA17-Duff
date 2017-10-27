@@ -136,7 +136,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <li>Peter Saville</li>
             <li>Chip Kidd</li>
             <li>Art Chantry</li>
-            <li>Fillmore Poster</li>
+            
             </ul>
         </ul>
         </td>
@@ -170,6 +170,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
             <ul>
             <li>Marian Bantjes</li>
             <li>Tadanori Yokoo</li>
+            <li>Fillmore Poster</li>
             </ul>
         </ul>
        </td>
