@@ -26,8 +26,8 @@ Josef Muller-Brockmann &amp; Swiss Design (composition & the grid) | Shirley | N
 Aleksander Rodchenko &amp; Constructivism (composition & photography) | Leon | Nov 3
 Barbara Krueger (type & image) | Rudhi | Nov 3
 Tibor Kalman (concept / image) | Christine | Nov 3
-Marian Bantjes | Chester | Nov 06
-Tadanori Yokoo | Anisa | Nov 06
+Marian Bantjes | Chester | Nov `10
+Tadanori Yokoo | Anisa | Nov 10
  
 * **Upload your presentation exported AS A PDF in the following google drive folder from your NYU GMAIL account (NOT your personal gmail account):**
 https://drive.google.com/drive/folders/0B3GbS-Wqk2AHWklzR3UyN1ZWS0E?usp=sharing
