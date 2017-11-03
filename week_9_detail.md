@@ -26,9 +26,9 @@
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
     <li>Josef Muller-Brockmann &amp; Swiss Design (Shirley)</li>
-    <li>Aleksander Rodchenko &amp; Constructivism (composition &amp; photography)</li>
-    <li>Barbara Krueger (type &amp; image)</li> 
-    <li>Tibor Kalman (concept / image) | Christine </li>
+    <li>Aleksander Rodchenko &amp; Constructivism (Leon)</li>
+    <li>Barbara Krueger (Rudhi)</li> 
+    <li>Tibor Kalman (Christine) </li>
     </ul>       
 </ul>
   
