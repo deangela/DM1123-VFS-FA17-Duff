@@ -31,7 +31,10 @@
     <li>Tibor Kalman (Christine) </li>
     </ul>       
 </ul>
-  
+<ul>
+<li>Watch <a href="http://www.aiga.org/video-makethink-2009-commandx2-day1" target="_blank">Video: Command X: Season 2, day 1</a>
+<li>OPTIONAL Watch <a href="http://www.aiga.org/video-makethink-2009-commandx2-day2" target="_blank">Video: Command X: Season 2, day 2</a>
+</ul>
 </td>
 </tr>
 <!-- read -->
