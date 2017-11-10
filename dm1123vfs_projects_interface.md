@@ -15,14 +15,13 @@ Post on your process website in grayscale (includes black and white).
 * Do not use Lorem Ipsum for text. Use Real Text.
 * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.html">resources</a> 
 
-#### INTERFACE Wireframes  (and, if applicable, Sitemap) Iteration  
-* (If instructed by profssor) Iterate your Wireframes and/or Sitemap
+#### INTERFACE Wireframes (and, if applicable, Sitemap) Iteration  
+* (If instructed by professor) Iterate your Wireframes and/or Sitemap
 * Post on your process website
 
 #### INTERFACE Comp 
 * Create a comp of your interface 
-    * The home page or screen and one other page (UNLESS you're doing a one-page scroller)
-* Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.html">resources</a> 
-
+    * The home page / screen and one other page (UNLESS you're doing a one-page scroller)
+* Post on your process website
 
 
