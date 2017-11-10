@@ -13,7 +13,7 @@ Post on your process website in grayscale (includes black and white).
 * Create a wireframe of your interface in letter dimensions (8 1/2 x 11). 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
-* Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> 
+* Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.html">resources</a> 
 
 #### INTERFACE Wireframes  (and, if applicable, Sitemap) Iteration  
 * (If instructed by profssor) Iterate your Wireframes and/or Sitemap
@@ -22,7 +22,7 @@ Post on your process website in grayscale (includes black and white).
 #### INTERFACE Comp 
 * Create a comp of your interface 
     * The home page or screen and one other page (UNLESS you're doing a one-page scroller)
-* Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> 
+* Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.html">resources</a> 
 
 
 
