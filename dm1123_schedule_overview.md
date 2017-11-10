@@ -165,7 +165,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_10_detail.md">Nov 10</a></td>    
         <td>
         <ul>
-        <li>INTERFACE Wireframes 1st Draft</li>
+        <li>INTERFACE Wireframes (and, if applicable, Sitemap) 1st Draft</li>
         <li>Creator Show and Tells:</li>    
             <ul>
             <li>Marian Bantjes</li>
@@ -180,8 +180,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td><a href="week_10_detail.md">Nov 17</a></td>   
         <td>
         <ul>
-        <li>INTERFACE Wireframes 2nd Draft</li>
-        <li>INTERFACE 1st Draft</li>
+        <li>INTERFACE Wireframes (and, if applicable, Sitemap) 2nd Draft</li>
+        <li>INTERFACE Comp 1st Draft</li>
         </ul>
         </td>
     </tr>
