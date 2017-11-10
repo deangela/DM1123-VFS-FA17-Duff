@@ -20,6 +20,8 @@ Post on your process website in grayscale (includes black and white).
 * Post on your process website
 
 #### INTERFACE Comp 
+Comp is short for composition or layout. A comp looks EXACTLY as it will appear in its final form; it's just NOT clickable in the case of a website, game, or digital kiosk, etc.
+
 * Create a comp of your interface 
     * The home page / screen and one other page (UNLESS you're doing a one-page scroller)
 * Post on your process website
