@@ -25,7 +25,6 @@
 </ul>
 <li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
     <ul>
-    <li>Peter Saville (Priyana  )</li>
     <li>Chip Kidd  (Sophie)</li>
     <li>Art Chantry (Claire)</li> 
     <li>Fillmore Posters (Mayda)</li>

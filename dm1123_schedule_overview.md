@@ -143,7 +143,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>9</td>  
-        <td>Nov 3</td>     
+        <td><a href="week_9_detail.md">Nov 3</a></td>     
         <td valign="top">
         <ul>
         <li>PHYSICAL APP 2nd Draft (Variations)</li>
@@ -162,7 +162,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>10</td>  
-        <td>Nov 10</td>    
+        <td><a href="week_10_detail.md">Nov 10</a></td>    
         <td>
         <ul>
         <li>INTERFACE Wireframes 1st Draft</li>
@@ -177,7 +177,7 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>11</td> 
-        <td>Nov 17</td>   
+        <td><a href="week_10_detail.md">Nov 17</a></td>   
         <td>
         <ul>
         <li>INTERFACE Wireframes 2nd Draft</li>
