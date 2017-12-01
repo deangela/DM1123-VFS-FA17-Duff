@@ -155,6 +155,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
    * [Icons / Symbols](http://thenounproject.com)
    * Logotypes
    * Combination
+ * [Adobe.com: Logos: Learn What Separates the Great from the Good](https://blogs.adobe.com/creativecloud/logos-learn-what-separates-the-great-from-the-good/)
  * [(if you want to get technical,) there is actually 5](http://www.nodinx.com/5-basic-types-of-logos/)
  * Versions (different) vs. Variations (similar) (vfs_logo_packet.pdf will be pinned on slack)
  * [Flexible Logotypes](http://www.hexanine.com/zeroside/the-future-is-fluid-inside-dynamic-logos/) (152-153 Type On Screen)

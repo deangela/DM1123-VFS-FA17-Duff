@@ -207,6 +207,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>
         <ul>
         <li>PDF or BOOK 1st DRAFT</strong></li>
+        <li>Physical Application Rubric slacked as pdf to De Angela</li>
+        <li>Interface Rubric slacked as pdf to De Angela</li>
         </ul>
         </td>
     </tr>
