@@ -68,7 +68,7 @@ with the following folders and assignment files as pdf:
 
 ## FINAL SELF ASSESSMENT
 
-*As a pdf, direct message to deangela on Slack.*
+*Include in google drive folder, VFS Fall 2017 or direct message on slack as pdf*
 
 Of Self
 
@@ -93,8 +93,9 @@ Of The Course
   * Graphic Design: The New Basics
   * Type On Screen
 
-## LETTER TO NEXT COHORT
+## Letter or Video to Next Cohort
+*Include in google drive folder, VFS Fall 2017*
 
-*As a pdf, direct message to deangela on Slack.*
-
-Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
+<ul>
+<Li>Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.</li>
+</ul>
